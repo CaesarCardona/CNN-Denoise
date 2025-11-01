@@ -12,7 +12,7 @@ python3 add-noise.py
 
 ## 🏋️‍♂️ Train the network
 ```bash
-python3 ai_agent.py
+python3 model-denoise.py
 ```
 
 MSE is shown in terminal for each Epoch and images are saved in 'predicted' folder.
