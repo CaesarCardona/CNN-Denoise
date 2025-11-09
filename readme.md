@@ -5,6 +5,11 @@
 
 ## 🚀 Execution
 
+### 📁 Create Folders
+```bash
+mkdir dataset-with-noise
+mkdir predicted
+```
 ### 🌀 Add Noise to Your Image Dataset
 ```bash
 python3 add-noise.py
